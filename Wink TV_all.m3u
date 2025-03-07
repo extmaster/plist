@@ -1,0 +1,671 @@
+#EXTM3U url-tvg="http://192.168.1.4:9092/epg/Wink TV.xml?all" 
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кто куда.png" ,#КтоКуда
+http://192.168.1.4:9092/InternationalID=327.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" ,.black
+http://192.168.1.4:9092/InternationalID=328.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" ,.black ᴴᴰ
+http://192.168.1.4:9092/InternationalID=329.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.red.png" ,.red
+http://192.168.1.4:9092/InternationalID=330.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.red.png" ,.red ᴴᴰ
+http://192.168.1.4:9092/InternationalID=331.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" ,.sci-fi
+http://192.168.1.4:9092/InternationalID=332.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" ,.sci-fi ᴴᴰ
+http://192.168.1.4:9092/InternationalID=333.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/2х2.png" ,2х2
+http://192.168.1.4:9092/InternationalID=334.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/2х2.png" ,2х2 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=335.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/360° Новости.png" ,360° Новости ᴴᴰ
+http://192.168.1.4:9092/InternationalID=336.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/360°.png" ,360° ᴴᴰ
+http://192.168.1.4:9092/InternationalID=337.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/365 Дней.png" ,365 дней ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=338.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/8 канал.png" ,8 канал
+http://192.168.1.4:9092/InternationalID=339.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/A1 HD.png" ,A1 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=340.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/A2 HD.png" ,A2 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=341.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Aiva.png" ,AIVA ᴴᴰ
+http://192.168.1.4:9092/InternationalID=342.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" ,AMEDIA Hit ᴴᴰ
+http://192.168.1.4:9092/InternationalID=343.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Premium HD.png" ,AMEDIA Premium ᴴᴰ
+http://192.168.1.4:9092/InternationalID=344.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Ani.png" ,Ani
+http://192.168.1.4:9092/InternationalID=345.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Babes TV.png" ,Babes TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=346.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/BABY TIME.png" ,BABY TIME
+http://192.168.1.4:9092/InternationalID=347.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Barely legal.png" ,Barely Legal
+http://192.168.1.4:9092/InternationalID=348.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/BIG PLANET.png" ,BIG PLANET ᴴᴰ
+http://192.168.1.4:9092/InternationalID=349.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Blue Hustler.png" ,blue HUSTLER
+http://192.168.1.4:9092/InternationalID=350.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" ,Bollywood ᴴᴰ
+http://192.168.1.4:9092/InternationalID=351.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bolt HD.png" ,BOLT ᴴᴰ
+http://192.168.1.4:9092/InternationalID=352.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Brazzers TV Europe.png" ,Brazzers TV Europe
+http://192.168.1.4:9092/InternationalID=353.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE.png" ,BRIDGE
+http://192.168.1.4:9092/InternationalID=354.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE CLASSIC.png" ,BRIDGE CLASSIC
+http://192.168.1.4:9092/InternationalID=355.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Deluxe.png" ,BRIDGE Deluxe ᴴᴰ
+http://192.168.1.4:9092/InternationalID=356.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE HITS.png" ,BRIDGE HITS
+http://192.168.1.4:9092/InternationalID=357.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ROCK.png" ,BRIDGE ROCK
+http://192.168.1.4:9092/InternationalID=358.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Русский Хит.png" ,BRIDGE Русский Хит
+http://192.168.1.4:9092/InternationalID=359.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ФРЭШ.png" ,BRIDGE ФРЭШ
+http://192.168.1.4:9092/InternationalID=360.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ФРЭШ.png" ,BRIDGE ФРЭШ HD
+http://192.168.1.4:9092/InternationalID=361.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Шлягер.png" ,BRIDGE Шлягер
+http://192.168.1.4:9092/InternationalID=362.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CCTV-4.png" ,CCTV-4
+http://192.168.1.4:9092/InternationalID=364.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CGTN.png" ,CGTN
+http://192.168.1.4:9092/InternationalID=365.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/CGTN Русский.png" ,CGTN Русский
+http://192.168.1.4:9092/InternationalID=366.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" ,Cinema
+http://192.168.1.4:9092/InternationalID=367.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Curiosity Stream.png" ,CuriosityStream ᴴᴰ
+http://192.168.1.4:9092/InternationalID=368.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Da Vinci.png" ,Da Vinci
+http://192.168.1.4:9092/InternationalID=369.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" ,Duck TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=370.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/English Class.png" ,English Class ᴴᴰ
+http://192.168.1.4:9092/InternationalID=371.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Epic.png" ,Epic ᴴᴰ
+http://192.168.1.4:9092/InternationalID=372.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Europa Plus TV.png" ,Europa Plus TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=373.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Exxxotica HD.png" ,Exxxotica ᴴᴰ
+http://192.168.1.4:9092/InternationalID=374.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Family Jam.png" ,FamilyJam ᴴᴰ
+http://192.168.1.4:9092/InternationalID=375.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FAN.png" ,FAN ᴴᴰ
+http://192.168.1.4:9092/InternationalID=376.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/FashionTV.png" ,FashionTV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=377.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/FoodTime.png" ,FoodTime ᴴᴰ
+http://192.168.1.4:9092/InternationalID=378.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/French Lover TV.png" ,French Lover TV
+http://192.168.1.4:9092/InternationalID=379.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Gagsnetwork.png" ,Gagsnetwork ᴴᴰ
+http://192.168.1.4:9092/InternationalID=380.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Gulli Girl.png" ,Gulli Girl
+http://192.168.1.4:9092/InternationalID=381.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" ,Hollywood ᴴᴰ
+http://192.168.1.4:9092/InternationalID=383.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/KHL Prime.png" ,KHL Prime ᴴᴰ
+http://192.168.1.4:9092/InternationalID=384.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/KHL.png" ,KHL ᴴᴰ
+http://192.168.1.4:9092/InternationalID=385.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KinoJam 1.png" ,KinoJam 1 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=386.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KinoLiving.png" ,KinoLiving ᴴᴰ
+http://192.168.1.4:9092/InternationalID=387.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KION ХИТ.png" ,KION ХИТ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=388.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Leomax24.png" ,Leomax24
+http://192.168.1.4:9092/InternationalID=389.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" ,MCM TOP
+http://192.168.1.4:9092/InternationalID=390.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo live HD.png" ,Mezzo Live ᴴᴰ
+http://192.168.1.4:9092/InternationalID=391.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo.png" ,Mezzo ᴴᴰ
+http://192.168.1.4:9092/InternationalID=392.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" ,MMA-TV.com
+http://192.168.1.4:9092/InternationalID=393.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" ,MMA-TV.com ᴴᴰ
+http://192.168.1.4:9092/InternationalID=394.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Museum.png" ,Museum ᴴᴰ
+http://192.168.1.4:9092/InternationalID=395.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Gold.png" ,MUSIC BOX GOLD
+http://192.168.1.4:9092/InternationalID=396.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Russia.png" ,MUSIC BOX RUSSIAN ᴴᴰ
+http://192.168.1.4:9092/InternationalID=397.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/My Zen TV HD.png" ,My Zen TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=398.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" ,Ocean-TV
+http://192.168.1.4:9092/InternationalID=399.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Plan B.png" ,Plan B ᴴᴰ
+http://192.168.1.4:9092/InternationalID=400.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/QUADRO 4K.png" ,QUADRO ⁴ᴷ
+http://192.168.1.4:9092/InternationalID=401.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Red Lips.png" ,Red Lips ᴴᴰ
+http://192.168.1.4:9092/InternationalID=402.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT DE.png" ,RT DE ᴴᴰ
+http://192.168.1.4:9092/InternationalID=405.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT.png" ,RT ᴴᴰ
+http://192.168.1.4:9092/InternationalID=406.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTG HD.png" ,RTG ᴴᴰ
+http://192.168.1.4:9092/InternationalID=407.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTД.png" ,RTД ᴴᴰ
+http://192.168.1.4:9092/InternationalID=408.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" ,RU.TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=409.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme Ultra.png" ,Russian Extreme Ultra
+http://192.168.1.4:9092/InternationalID=410.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme HD.png" ,Russian Extreme ᴴᴰ
+http://192.168.1.4:9092/InternationalID=411.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Shopping live.png" ,Shopping live
+http://192.168.1.4:9092/InternationalID=412.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Shot TV.png" ,SHOT TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=413.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" ,Silk Way ᴴᴰ
+http://192.168.1.4:9092/InternationalID=414.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/SongTV Armenia HD.png" ,SongTV Armenia ᴴᴰ
+http://192.168.1.4:9092/InternationalID=415.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/SongTV Russia.png" ,SongTV Russia ᴴᴰ
+http://192.168.1.4:9092/InternationalID=416.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Star Cinema HD.png" ,Star Cinema ᴴᴰ
+http://192.168.1.4:9092/InternationalID=417.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Star Family HD.png" ,Star Family ᴴᴰ
+http://192.168.1.4:9092/InternationalID=418.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START Air.png" ,START Air ᴴᴰ
+http://192.168.1.4:9092/InternationalID=419.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START World.png" ,START World ᴴᴰ
+http://192.168.1.4:9092/InternationalID=420.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Sumiko.png" ,Sumiko ᴴᴰ
+http://192.168.1.4:9092/InternationalID=421.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Temptation TV.png" ,Temptation TV ᴴᴰ
+http://192.168.1.4:9092/InternationalID=422.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TERRA.png" ,TERRA ᴴᴰ
+http://192.168.1.4:9092/InternationalID=423.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/The Explorers.png" ,The Explorers ᴴᴰ
+http://192.168.1.4:9092/InternationalID=424.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Tiji.png" ,TiJi
+http://192.168.1.4:9092/InternationalID=425.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/TORRE RICCA.png" ,TORRE RICCA
+http://192.168.1.4:9092/InternationalID=426.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Travel+ adventure.png" ,Travel+Adventure ᴴᴰ
+http://192.168.1.4:9092/InternationalID=427.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TV BRICS.png" ,TV BRICS ᴴᴰ
+http://192.168.1.4:9092/InternationalID=428.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Ultra HD Cinema.png" ,Ultra HD Cinema
+http://192.168.1.4:9092/InternationalID=429.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/VHS-KA.png" ,VHS-KA ᴴᴰ
+http://192.168.1.4:9092/InternationalID=430.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Explore.png" ,viju Explore ᴴᴰ
+http://192.168.1.4:9092/InternationalID=431.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju History.png" ,viju History ᴴᴰ
+http://192.168.1.4:9092/InternationalID=432.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Nature.png" ,viju Nature ᴴᴰ
+http://192.168.1.4:9092/InternationalID=433.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 action.png" ,viju TV1000 action ᴴᴰ
+http://192.168.1.4:9092/InternationalID=434.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 новелла.png" ,viju TV1000 новелла ᴴᴰ
+http://192.168.1.4:9092/InternationalID=435.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 русское.png" ,viju TV1000 русское ᴴᴰ
+http://192.168.1.4:9092/InternationalID=436.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" ,viju TV1000 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=437.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Comedy.png" ,viju+ Comedy ᴴᴰ
+http://192.168.1.4:9092/InternationalID=438.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Megahit.png" ,viju+ Megahit ᴴᴰ
+http://192.168.1.4:9092/InternationalID=439.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju+ Planet.png" ,viju+ Planet ᴴᴰ
+http://192.168.1.4:9092/InternationalID=440.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Premiere.png" ,viju+ Premiere ᴴᴰ
+http://192.168.1.4:9092/InternationalID=441.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Serial.png" ,viju+ Serial ᴴᴰ
+http://192.168.1.4:9092/InternationalID=442.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" ,viju+ Sport
+http://192.168.1.4:9092/InternationalID=443.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" ,viju+ Sport ᴴᴰ
+http://192.168.1.4:9092/InternationalID=444.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/WOMEN’S MAGAZINE.png" ,WOMEN’S MAGAZINE ᴴᴰ
+http://192.168.1.4:9092/InternationalID=445.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/World Fashion Channel HD.png" ,World Fashion Channel ᴴᴰ
+http://192.168.1.4:9092/InternationalID=446.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Zоопарк.png" ,Zоопарк
+http://192.168.1.4:9092/InternationalID=447.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Авто Плюс.png" ,Авто Плюс
+http://192.168.1.4:9092/InternationalID=448.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Авто24.png" ,АВТО24 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=449.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Анекдот ТВ.png" ,Анекдот ТВ
+http://192.168.1.4:9092/InternationalID=450.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Аппетитный.png" ,Аппетитный ᴴᴰ
+http://192.168.1.4:9092/InternationalID=451.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Беларусь 24.png" ,Беларусь 24
+http://192.168.1.4:9092/InternationalID=452.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/БелРос.png" ,БелРос
+http://192.168.1.4:9092/InternationalID=453.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Бобёр.png" ,Бобёр
+http://192.168.1.4:9092/InternationalID=454.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Большая Азия.png" ,Большая Азия ᴴᴰ
+http://192.168.1.4:9092/InternationalID=455.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" ,В гостях у сказки
+http://192.168.1.4:9092/InternationalID=456.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Вместе-РФ.png" ,ВМЕСТЕ-РФ
+http://192.168.1.4:9092/InternationalID=457.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Волейбол.png" ,Волейбол ᴴᴰ
+http://192.168.1.4:9092/InternationalID=458.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Восток ТВ.png" ,Восток ТВ
+http://192.168.1.4:9092/InternationalID=459.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Время.png" ,Время
+http://192.168.1.4:9092/InternationalID=460.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Всё ТВ.png" ,Всё ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=461.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Глазами туриста.png" ,Глазами туриста ᴴᴰ
+http://192.168.1.4:9092/InternationalID=462.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Детский мир.png" ,Детский Мир
+http://192.168.1.4:9092/InternationalID=463.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Диалоги о рыбалке.png" ,Диалоги о рыбалке ᴴᴰ
+http://192.168.1.4:9092/InternationalID=464.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикая охота HD.png" ,Дикая охота ᴴᴰ
+http://192.168.1.4:9092/InternationalID=465.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикая рыбалка HD.png" ,Дикая рыбалка ᴴᴰ
+http://192.168.1.4:9092/InternationalID=466.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Дикий.png" ,Дикий
+http://192.168.1.4:9092/InternationalID=467.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Доктор.png" ,Доктор
+http://192.168.1.4:9092/InternationalID=468.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дом кино.png" ,Дом кино
+http://192.168.1.4:9092/InternationalID=469.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дом кино премиум HD.png" ,Дом кино Премиум ᴴᴰ
+http://192.168.1.4:9092/InternationalID=470.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" ,Домашний
+http://192.168.1.4:9092/InternationalID=471.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" ,Домашний ᴴᴰ
+http://192.168.1.4:9092/InternationalID=472.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дорама.png" ,Дорама
+http://192.168.1.4:9092/InternationalID=473.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Драйв.png" ,Драйв
+http://192.168.1.4:9092/InternationalID=474.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Драйв.png" ,Драйв ᴴᴰ
+http://192.168.1.4:9092/InternationalID=475.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Дума ТВ.png" ,Дума ТВ
+http://192.168.1.4:9092/InternationalID=476.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/ЕГЭ.png" ,ЕГЭ
+http://192.168.1.4:9092/InternationalID=477.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Еда.png" ,Еда ᴴᴰ
+http://192.168.1.4:9092/InternationalID=478.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Жар птица.png" ,Жар Птица
+http://192.168.1.4:9092/InternationalID=479.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Жара.png" ,ЖАРА ᴴᴰ
+http://192.168.1.4:9092/InternationalID=480.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живая планета.png" ,Живая Планета
+http://192.168.1.4:9092/InternationalID=481.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живи активно.png" ,Живи активно ᴴᴰ
+http://192.168.1.4:9092/InternationalID=482.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Живи.png" ,ЖиВи! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=483.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Загородная жизнь.png" ,Загородная жизнь ᴴᴰ
+http://192.168.1.4:9092/InternationalID=484.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Зал суда.png" ,Зал суда ᴴᴰ
+http://192.168.1.4:9092/InternationalID=485.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Звезда.png" ,Звезда
+http://192.168.1.4:9092/InternationalID=486.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Звезда Плюс.png" ,Звезда Плюс ᴴᴰ
+http://192.168.1.4:9092/InternationalID=487.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Известия.png" ,Известия ᴴᴰ
+http://192.168.1.4:9092/InternationalID=488.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Известия.png" ,Известия ᴴᴰ
+http://192.168.1.4:9092/InternationalID=489.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Иллюзион+.png" ,Иллюзион+
+http://192.168.1.4:9092/InternationalID=490.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Индия.png" ,Индия ᴴᴰ
+http://192.168.1.4:9092/InternationalID=491.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/История.png" ,История
+http://192.168.1.4:9092/InternationalID=492.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Калейдоскоп ТВ.png" ,Калейдоскоп ТВ
+http://192.168.1.4:9092/InternationalID=493.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" ,Карусель
+http://192.168.1.4:9092/InternationalID=494.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" ,Карусель ᴴᴰ
+http://192.168.1.4:9092/InternationalID=495.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/КВН ТВ.png" ,КВН ТВ
+http://192.168.1.4:9092/InternationalID=496.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/КИНЕКО.png" ,КИНЕКО ᴴᴰ
+http://192.168.1.4:9092/InternationalID=497.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Кино ТВ.png" ,Кино ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=498.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Кинокомедия.png" ,КИНОКОМЕДИЯ
+http://192.168.1.4:9092/InternationalID=499.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киномикс.png" ,КИНОМИКС
+http://192.168.1.4:9092/InternationalID=500.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/КиноМульт.png" ,КиноМульт
+http://192.168.1.4:9092/InternationalID=501.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Кинопоказ HD.png" ,Кинопоказ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=502.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Кинопремьера.png" ,КИНОПРЕМЬЕРА ᴴᴰ
+http://192.168.1.4:9092/InternationalID=503.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киносвидание.png" ,КИНОСВИДАНИЕ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=504.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киносемья.png" ,КИНОСЕМЬЯ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=505.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киносерия.png" ,КИНОСЕРИЯ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=506.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киноужас.png" ,Киноужас ᴴᴰ
+http://192.168.1.4:9092/InternationalID=507.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Кинохит.png" ,КИНОХИТ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=508.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ключ.png" ,Ключ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=509.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Комедия.png" ,Комедия
+http://192.168.1.4:9092/InternationalID=510.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Красная линия.png" ,Красная Линия
+http://192.168.1.4:9092/InternationalID=511.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кухня.png" ,Кухня
+http://192.168.1.4:9092/InternationalID=512.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Лапки LIVE.png" ,Лапки LIVE ᴴᴰ
+http://192.168.1.4:9092/InternationalID=513.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/ЛДПР ТВ.png" ,ЛДПР ТВ
+http://192.168.1.4:9092/InternationalID=514.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Лёва.png" ,Лёва ᴴᴰ
+http://192.168.1.4:9092/InternationalID=515.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/Лен ТВ 24.png" ,Лен ТВ 24
+http://192.168.1.4:9092/InternationalID=516.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Любимое кино.png" ,Любимое Кино
+http://192.168.1.4:9092/InternationalID=517.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Ля-минор.png" ,Ля-минор
+http://192.168.1.4:9092/InternationalID=518.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Магнат.png" ,Магнат ᴴᴰ
+http://192.168.1.4:9092/InternationalID=519.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Мама.png" ,Мама
+http://192.168.1.4:9092/InternationalID=520.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" ,Матч ТВ
+http://192.168.1.4:9092/InternationalID=521.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Арена.png" ,Матч! Арена ᴴᴰ
+http://192.168.1.4:9092/InternationalID=522.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Боец.png" ,Матч! Боец ᴴᴰ
+http://192.168.1.4:9092/InternationalID=523.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Игра.png" ,Матч! Игра ᴴᴰ
+http://192.168.1.4:9092/InternationalID=524.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Премьер HD.png" ,Матч! Премьер ᴴᴰ
+http://192.168.1.4:9092/InternationalID=525.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Страна.png" ,Матч! Страна ᴴᴰ
+http://192.168.1.4:9092/InternationalID=526.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 1.png" ,Матч! Футбол 1 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=527.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 2.png" ,Матч! Футбол 2 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=528.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 3.png" ,Матч! Футбол 3 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=529.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" ,Матч! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=530.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" ,Матч! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=531.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" ,Мир
+http://192.168.1.4:9092/InternationalID=532.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Мир 24.png" ,Мир 24
+http://192.168.1.4:9092/InternationalID=533.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Мир Баскетбола.png" ,Мир Баскетбола ᴴᴰ
+http://192.168.1.4:9092/InternationalID=534.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мир сериала.png" ,Мир сериала
+http://192.168.1.4:9092/InternationalID=535.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" ,Мир ᴴᴰ
+http://192.168.1.4:9092/InternationalID=536.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Мой Мир.png" ,Мой Мир
+http://192.168.1.4:9092/InternationalID=537.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Москва 24.png" ,Москва 24
+http://192.168.1.4:9092/InternationalID=538.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Москва. Доверие.png" ,Москва. Доверие
+http://192.168.1.4:9092/InternationalID=539.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" ,Мосфильм. Золотая коллекция ᴴᴰ
+http://192.168.1.4:9092/InternationalID=540.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" ,Моя Планета
+http://192.168.1.4:9092/InternationalID=541.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" ,Моя Планета ᴴᴰ
+http://192.168.1.4:9092/InternationalID=542.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" ,МУЖСКОЕ КИНО
+http://192.168.1.4:9092/InternationalID=543.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Мужской.png" ,Мужской
+http://192.168.1.4:9092/InternationalID=544.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" ,МУЗ-ТВ
+http://192.168.1.4:9092/InternationalID=545.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" ,МУЗ-ТВ
+http://192.168.1.4:9092/InternationalID=546.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" ,МУЗ-ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=547.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png" ,Музыка Первого
+http://192.168.1.4:9092/InternationalID=548.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" ,МУЛЬТ
+http://192.168.1.4:9092/InternationalID=549.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" ,МУЛЬТ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=550.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мультиландия.png" ,Мультиландия
+http://192.168.1.4:9092/InternationalID=551.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мультимузыка.png" ,Мультимузыка
+http://192.168.1.4:9092/InternationalID=552.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Мы.png" ,Мы ᴴᴰ
+http://192.168.1.4:9092/InternationalID=553.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Надежда.png" ,Надежда
+http://192.168.1.4:9092/InternationalID=554.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Народ Всё Видит.png" ,Народ Всё Видит
+http://192.168.1.4:9092/InternationalID=555.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" ,Настоящее Страшное Телевидение
+http://192.168.1.4:9092/InternationalID=556.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наука.png" ,Наука
+http://192.168.1.4:9092/InternationalID=557.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь 4K.png" ,Наша Сибирь ⁴ᴷ
+http://192.168.1.4:9092/InternationalID=558.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" ,НАШЕ НОВОЕ КИНО
+http://192.168.1.4:9092/InternationalID=559.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Неизвестная Россия.png" ,Неизвестная Россия ᴴᴰ
+http://192.168.1.4:9092/InternationalID=560.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Новый Игровой Канал.png" ,Новый Игровой Канал
+http://192.168.1.4:9092/InternationalID=561.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" ,НТВ
+http://192.168.1.4:9092/InternationalID=562.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/НТВ Право.png" ,НТВ Право
+http://192.168.1.4:9092/InternationalID=563.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/НТВ Сериал.png" ,НТВ Сериал
+http://192.168.1.4:9092/InternationalID=564.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/НТВ Стиль.png" ,НТВ Стиль
+http://192.168.1.4:9092/InternationalID=565.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" ,НТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=566.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/О!.png" ,О!
+http://192.168.1.4:9092/InternationalID=567.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/О2ТВ.png" ,О2ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=568.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Оружие.png" ,Оружие
+http://192.168.1.4:9092/InternationalID=569.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ОТР.png" ,ОТР
+http://192.168.1.4:9092/InternationalID=570.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ОТР.png" ,ОТР ᴴᴰ
+http://192.168.1.4:9092/InternationalID=571.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Охота и Рыбалка.png" ,Охота и рыбалка
+http://192.168.1.4:9092/InternationalID=572.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Патриот.png" ,Патриот
+http://192.168.1.4:9092/InternationalID=573.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Первый Вегетарианский.png" ,Первый вегетарианский ᴴᴰ
+http://192.168.1.4:9092/InternationalID=574.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" ,Первый канал
+http://192.168.1.4:9092/InternationalID=575.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" ,Первый канал ᴴᴰ
+http://192.168.1.4:9092/InternationalID=576.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Первый Российский Национальный Канал.png" ,Первый Российский Национальный Канал ᴴᴰ
+http://192.168.1.4:9092/InternationalID=577.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Победа_.png" ,Победа ᴴᴰ
+http://192.168.1.4:9092/InternationalID=578.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Поехали!.png" ,ПОЕХАЛИ! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=579.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Про Бизнес.png" ,ПРО БИЗНЕС
+http://192.168.1.4:9092/InternationalID=580.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Просвещение.png" ,Просвещение
+http://192.168.1.4:9092/InternationalID=581.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Психология.png" ,Психология
+http://192.168.1.4:9092/InternationalID=582.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятница! HD.png" ,Пятница!
+http://192.168.1.4:9092/InternationalID=583.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятница! HD.png" ,Пятница! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=584.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" ,Пятый канал
+http://192.168.1.4:9092/InternationalID=585.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" ,Пятый канал
+http://192.168.1.4:9092/InternationalID=586.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Радость Моя.png" ,Радость Моя
+http://192.168.1.4:9092/InternationalID=587.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ратник.png" ,Ратник ᴴᴰ
+http://192.168.1.4:9092/InternationalID=588.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/РБК.png" ,РБК ᴴᴰ
+http://192.168.1.4:9092/InternationalID=589.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" ,РЕН ТВ
+http://192.168.1.4:9092/InternationalID=590.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" ,РЕН ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=591.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" ,РЕН ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=592.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ретро ТВ.png" ,Ретро
+http://192.168.1.4:9092/InternationalID=593.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Родное кино.png" ,РОДНОЕ КИНО
+http://192.168.1.4:9092/InternationalID=594.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Романтичное.png" ,Романтичное ᴴᴰ
+http://192.168.1.4:9092/InternationalID=595.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" ,Россия 1
+http://192.168.1.4:9092/InternationalID=596.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" ,Россия 1 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=597.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" ,Россия 1 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=598.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" ,Россия 24
+http://192.168.1.4:9092/InternationalID=599.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия К.png" ,Россия К
+http://192.168.1.4:9092/InternationalID=600.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Русская ночь.png" ,Русская ночь
+http://192.168.1.4:9092/InternationalID=601.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский бестселлер.png" ,Русский бестселлер
+http://192.168.1.4:9092/InternationalID=602.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский детектив.png" ,Русский детектив
+http://192.168.1.4:9092/InternationalID=603.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский иллюзион.png" ,Русский Иллюзион
+http://192.168.1.4:9092/InternationalID=604.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/РУССКИЙ КОРАБЛЬ.png" ,РУССКИЙ КОРАБЛЬ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=605.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский Роман.png" ,Русский Роман ᴴᴰ
+http://192.168.1.4:9092/InternationalID=606.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/Санкт-Петербург.png" ,Санкт-Петербург ᴴᴰ
+http://192.168.1.4:9092/InternationalID=607.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/САПФИР.png" ,САПФИР ᴴᴰ
+http://192.168.1.4:9092/InternationalID=608.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Сарафан.png" ,Сарафан
+http://192.168.1.4:9092/InternationalID=609.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Светлое тв.png" ,Светлое ТВ HD
+http://192.168.1.4:9092/InternationalID=610.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Совершенно секретно.png" ,Совершенно секретно
+http://192.168.1.4:9092/InternationalID=611.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СОЛНЦЕ.png" ,СОЛНЦЕ
+http://192.168.1.4:9092/InternationalID=612.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/СОЛОВЬЁВLIVE.png" ,СОЛОВЬЁВLIVE
+http://192.168.1.4:9092/InternationalID=613.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Союз.png" ,Союз
+http://192.168.1.4:9092/InternationalID=614.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Спас.png" ,СПАС
+http://192.168.1.4:9092/InternationalID=615.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Старт Триумф.png" ,Старт Триумф ᴴᴰ
+http://192.168.1.4:9092/InternationalID=616.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Старт.png" ,Старт ᴴᴰ
+http://192.168.1.4:9092/InternationalID=617.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Страшное HD.png" ,Страшное ᴴᴰ
+http://192.168.1.4:9092/InternationalID=618.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/СТС HD.png" ,СТС
+http://192.168.1.4:9092/InternationalID=619.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СТС Kids.png" ,СТС Kids ᴴᴰ
+http://192.168.1.4:9092/InternationalID=620.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/СТС Love.png" ,СТС Love
+http://192.168.1.4:9092/InternationalID=621.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/СТС HD.png" ,СТС ᴴᴰ
+http://192.168.1.4:9092/InternationalID=622.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Суббота!.png" ,Суббота!
+http://192.168.1.4:9092/InternationalID=623.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Суббота!.png" ,Суббота! ᴴᴰ
+http://192.168.1.4:9092/InternationalID=624.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СуперГерои.png" ,СуперГерои
+http://192.168.1.4:9092/InternationalID=625.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Т24.png" ,Т24
+http://192.168.1.4:9092/InternationalID=626.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайна.png" ,Тайна
+http://192.168.1.4:9092/InternationalID=627.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайны Галактики.png" ,Тайны Галактики ᴴᴰ
+http://192.168.1.4:9092/InternationalID=628.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" ,ТВ Центр
+http://192.168.1.4:9092/InternationalID=629.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/TV XXI.png" ,ТВ-21 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=630.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" ,ТВ-3
+http://192.168.1.4:9092/InternationalID=631.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" ,ТВ-3 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=632.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Театр.png" ,Театр ᴴᴰ
+http://192.168.1.4:9092/InternationalID=633.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Телеканал народной музыки.png" ,Телеканал народной музыки ᴴᴰ
+http://192.168.1.4:9092/InternationalID=634.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Телекафе.png" ,ТЕЛЕКАФЕ
+http://192.168.1.4:9092/InternationalID=635.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТеоТВ.png" ,Тео-ТВ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=636.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" ,ТНТ
+http://192.168.1.4:9092/InternationalID=637.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/ТНТ Music.png" ,ТНТ MUSIC ᴴᴰ
+http://192.168.1.4:9092/InternationalID=638.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" ,ТНТ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=639.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" ,ТНТ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=640.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" ,ТНТ4
+http://192.168.1.4:9092/InternationalID=641.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" ,ТНТ4 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=642.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Точка отрыва.png" ,Точка отрыва
+http://192.168.1.4:9092/InternationalID=643.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" ,УДАР ᴴᴰ
+http://192.168.1.4:9092/InternationalID=644.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Уникум.png" ,Уникум
+http://192.168.1.4:9092/InternationalID=645.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Усадьба.png" ,Усадьба
+http://192.168.1.4:9092/InternationalID=646.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Успех.png" ,Успех
+http://192.168.1.4:9092/InternationalID=647.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Феникс плюс кино.png" ,Феникс плюс Кино ᴴᴰ
+http://192.168.1.4:9092/InternationalID=648.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Футбол HD.png" ,Футбол ᴴᴰ
+http://192.168.1.4:9092/InternationalID=649.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Хабар 24.png" ,Хабар 24 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=650.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Центральное телевидение.png" ,Центральное телевидение
+http://192.168.1.4:9092/InternationalID=651.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Че!.png" ,Че!
+http://192.168.1.4:9092/InternationalID=652.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шалун.png" ,Шалун ᴴᴰ
+http://192.168.1.4:9092/InternationalID=653.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Шансон ТВ.png" ,Шансон ТВ
+http://192.168.1.4:9092/InternationalID=654.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шёлк.png" ,Шёлк ᴴᴰ
+http://192.168.1.4:9092/InternationalID=655.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Эхо тв.png" ,Эхо-ТВ
+http://192.168.1.4:9092/InternationalID=656.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ю.png" ,Ю
+http://192.168.1.4:9092/InternationalID=657.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" ,Ювелирочка
+http://192.168.1.4:9092/InternationalID=658.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелиртрейд.png" ,Ювелиртрейд ᴴᴰ
+http://192.168.1.4:9092/InternationalID=659.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/78.png" ,78 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=2763.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 romantica.png" ,viju TV1000 romantica ᴴᴰ
+http://192.168.1.4:9092/InternationalID=2764.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" ,ТВ-3 ᴴᴰ
+http://192.168.1.4:9092/InternationalID=10270.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" ,Ювелирочка ᴴᴰ
+http://192.168.1.4:9092/InternationalID=10271.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Русская история.png" ,Русская история ᴴᴰ
+http://192.168.1.4:9092/InternationalID=11833.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="3" group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" ,ТОЧКА.РФ ᴴᴰ
+http://192.168.1.4:9092/InternationalID=11834.ts
